@@ -1,0 +1,6 @@
+{
+  "name": "Costa Pacífico",
+  "description": "Rediseño premium inmobiliario para Costa Pacífico con estética minimalista, indicadores financieros en tiempo real y buscador inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
